@@ -2,6 +2,10 @@ img {
     width: 200px;
 }
 body{
+    position: relative;
+    top: 200px;
+    background-image: url(https://www.jpl.nasa.gov/assets/images/content/tmp/home/missions_bg_image.jpg);
     text-align: center;
+    color: white;
     font-family: "Arial";
 }
